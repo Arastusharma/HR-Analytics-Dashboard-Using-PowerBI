@@ -1,3 +1,5 @@
+![image](https://github.com/Arastusharma/HR-Analytics-Dashboard-Using-PowerBI/assets/68692533/80568bae-e243-47a6-8d8a-3ecfabe25f2c)
+
 # HR-Analytics-Dashboard-Using-PowerBI
 This repository features a PowerBI HR Analytics Dashboard designed to offer detailed insights into employee attrition. The dashboard utilizes various metrics and Key Performance Indicators (KPIs) to help HR departments identify patterns and factors contributing to employee turnover, enabling informed decision-making and strategic planning.
 
